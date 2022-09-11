@@ -1,5 +1,5 @@
 # SNAKE WATER GUN Game
-this is a simple snake water gun game
+This is a simple snake water gun game
 
 Snake Water Gun is one of the famous two-player game played by many people. 
 It is a hand game in which the player randomly chooses any of the three forms i.e. snake, water, and gun.
